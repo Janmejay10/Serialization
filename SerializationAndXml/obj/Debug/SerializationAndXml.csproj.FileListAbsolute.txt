@@ -1,0 +1,7 @@
+D:\C#.NET\SerializationAndXml\SerializationAndXml\bin\Debug\SerializationAndXml.exe.config
+D:\C#.NET\SerializationAndXml\SerializationAndXml\bin\Debug\SerializationAndXml.exe
+D:\C#.NET\SerializationAndXml\SerializationAndXml\bin\Debug\SerializationAndXml.pdb
+D:\C#.NET\SerializationAndXml\SerializationAndXml\obj\Debug\SerializationAndXml.csprojAssemblyReference.cache
+D:\C#.NET\SerializationAndXml\SerializationAndXml\obj\Debug\SerializationAndXml.csproj.CoreCompileInputs.cache
+D:\C#.NET\SerializationAndXml\SerializationAndXml\obj\Debug\SerializationAndXml.exe
+D:\C#.NET\SerializationAndXml\SerializationAndXml\obj\Debug\SerializationAndXml.pdb
